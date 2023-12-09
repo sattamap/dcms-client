@@ -1,8 +1,19 @@
 # Diagnostic Center Management System (dcms) 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+### i. Project Name and Website Type
+**Project Name:** dcms (Diagnostic Center Management System)  
+**Website Type:** A Comprehensive Diagnostic Center Management System  
+**Duration:** 5-7 days
 
-Currently, two official plugins are available:
+### ii. Key Features
+- **Robust Appointment Management:** Efficiently handle appointments, patient records, and test results, ensuring a seamless user experience for both healthcare professionals and patients.
+- **Secure User Authentication:** Implement Firebase Authentication for secure email/password login.
+- **Dynamic Admin Dashboard:** Empower administrators to manage users, tests, reservations, and banners, providing complete control over the diagnostic center's operations.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### iii. Technologies Used
+- **React:** Building dynamic and responsive user interfaces.
+- **UI Libraries:** Leveraging Material UI for consistent design components and customizing styles with Tailwind CSS and Daisy UI.
+- **Express.js and Node.js:** Developing a robust backend server to handle user authentication, database interactions, and admin functionalities.
+- **MongoDB:** Storing and managing user data, test details, reservations, and banners in a flexible NoSQL database.
+
+### iv. [Live Site Link](https://dcms-52c0f.web.app)
