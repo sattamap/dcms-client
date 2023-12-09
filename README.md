@@ -16,4 +16,6 @@
 - **Express.js and Node.js:** Developing a robust backend server to handle user authentication, database interactions, and admin functionalities.
 - **MongoDB:** Storing and managing user data, test details, reservations, and banners in a flexible NoSQL database.
 
-### iv. [Live Site Link](https://dcms-52c0f.web.app)
+### [Live Site ](https://dcms-52c0f.web.app)
+### [Client Side Repository](https://github.com/sattamap/dcms-client)
+### [Server Side Repository](https://github.com/sattamap/dcms-server)
